@@ -1,3 +1,3 @@
 # Testing
 Album Testing
-~~ A$AP ~~ 
+~~A$AP~~ 
